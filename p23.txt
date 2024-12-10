@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi there
+=======
+hello bitch
+>>>>>>> f7f271f068003cd6d98b4e4b1025f4d3fb9ca297
